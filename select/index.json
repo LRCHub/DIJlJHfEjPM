@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビハインド・ブルー・アイズ",
+  "base_artist": "Limp Bizkit",
+  "createdAt": "2026-02-17T08:32:17.915360Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Behind Blue Eyes",
+      "artist": "Limp Bizkit",
+      "has_synced": false,
+      "path": "select/pl_01_Behind_Blue_Eyes_Limp_Bizkit.txt"
+    }
+  ]
+}
